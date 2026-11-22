@@ -1,0 +1,9 @@
+websockets
+mss
+pyautogui
+pyperclip
+pillow
+cryptography
+customtkinter
+spake2
+pywin32
